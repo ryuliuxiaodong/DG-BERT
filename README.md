@@ -1,1 +1,1 @@
-# Uploading now; Once "DG_ReadME.pdf" is uploaded, the uploading process will be done.
+# Please check "DG_ReadMe.pdf" for using our source code.
